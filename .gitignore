@@ -24,3 +24,6 @@ hs_err_pid*
 
 #Tempo data
 **/tempo-data/
+local/logs/access_log.log
+local/logs/access_log.log
+local/logs/hello-observability.log
